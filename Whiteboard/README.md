@@ -72,6 +72,7 @@ When you run the Whiteboard application it will prompt you for a user ID and a p
 Notes:
 
 * To complete a release build you must create your own signing key. To create your own signing key, visit https://developer.android.com/studio/publish/app-signing.html.
+  * After creating your signing key set the key store password, key password, key alias and path to the keystore file in the 'app.properties' file.
 * This application has been built using gradle 4.2.1 (newer versions have not been validated).
 
 ## Walkthrough
