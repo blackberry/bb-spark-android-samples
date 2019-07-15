@@ -2,4 +2,4 @@
 
 # Examples for Android
 
-This content has moved to [BlackBerry/BlackBerry-Communications-Services-Community-Samples/android/README.md](https://github.com/BlackBerry/BlackBerry-Communications-Services-Community-Samples/android/README.md)
+This content has moved to [BlackBerry/BlackBerry-Communications-Services-Community-Examples/android/README.md](https://github.com/BlackBerry/BlackBerry-Communications-Services-Community-Examples/android/README.md)
