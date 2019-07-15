@@ -2,4 +2,4 @@
 
 # Examples for Android
 
-This content has moved to [BlackBerry-Communication-Services-Examples/android/](https://github.com/blackberry/BlackBerry-Communication-Services-Examples/blob/master/android/).
+This content has moved to [BlackBerry-Communication-Services-Examples/android](https://github.com/blackberry/BlackBerry-Communication-Services-Examples/blob/master/android/).
